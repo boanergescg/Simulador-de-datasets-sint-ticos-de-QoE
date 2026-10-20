@@ -1,0 +1,17 @@
+# Dados de referência (UOAL / Du et al.) e coleta própria: não redistribuídos
+dados/*
+!dados/.gitkeep
+
+# Saídas geradas pelo código
+resultados/*
+!resultados/.gitkeep
+figuras/*
+!figuras/.gitkeep
+
+# Cache e arquivos temporários
+cache/
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
